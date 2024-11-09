@@ -8,7 +8,7 @@ import re
 from moviepy.editor import AudioFileClip
 import os
 
-# (Solution -> Pytube repository GitHub)
+# client version settings
 
 _default_clients["ANDROID"]["context"]["client"]["clientVersion"] = "19.08.35"
 _default_clients["IOS"]["context"]["client"]["clientVersion"] = "19.08.35"
