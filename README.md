@@ -20,6 +20,7 @@ pip install moviepy
 
 <h1>Known Issues and Fixes</h1>
 The application includes patches for common pytube issues related to YouTube's client version and throttling system. These fixes are implemented directly in the code to ensure stable functionality. However, please note:
+
   <ul>
     <li>YouTube regularly updates their systems, which may require updating these patches</li>
     <li>If downloads stop working, first check for updates to the client version numbers</li>
